@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Anime Freak<br><br>🌱 I’m currently learning How to create a OTT platform to view the Animes<br><br>👯 I’m looking to collaborate on Anime Freak<br><br>👨‍💻 All of my projects are available at https://portfolio-three-beryl-95.vercel.app/<br><br>💬 Ask me about Next.js, React.js, JavaScript, python, GCP ...<br><br>📫 How to reach me sagar22krishna03@gmail.com
+🔭 I’m currently working on Expensemate project<br><br>🌱 I’m currently learning Next-Auth and recharts <br><br>👨‍💻 All of my projects are available at https://portfolio-three-beryl-95.vercel.app/<br><br>💬 Ask me about Next.js, React.js, JavaScript, TypeScript, python, GCP ...<br><br>📫 How to reach me sagar22krishna03@gmail.com
 
 
 ## 🌐 Socials:
